@@ -1,0 +1,17 @@
+{
+  "name": "ravenitsystems/send-mail-router",
+  "description": "Intercepts mail sent by the built in mail function and sends it using PHPMailer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nicholas Ashley",
+      "email": "ravenitsystems@outlook.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+  },
+  "require": {
+    "phpmailer/phpmailer": "6.9.1"
+  }
+}
